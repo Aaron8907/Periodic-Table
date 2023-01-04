@@ -1,0 +1,31 @@
+h1 {
+    color: rgb(99, 99, 192);
+    text-align: center;
+  }
+
+  .first{
+    display:inline-block
+  }
+  .square {
+    
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    border-radius: 10%; 
+
+   
+  }
+
+  .element{
+    color:azure;
+    text-align: center;
+    padding: 25%;
+    border-style:groove;
+    margin:0%
+  }
+
+  
+
+  
+
+ 
